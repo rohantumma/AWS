@@ -1,0 +1,3 @@
+gcc -nostartfiles -o nomain nomain.c
+
+./nomain
