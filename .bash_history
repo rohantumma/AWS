@@ -126,3 +126,18 @@ git commit -m "cython_cmd"
 git branch -M main
 git push -u origin main
 la
+mkdir c_main
+cd c_main/
+nano work.c
+nano work.txt
+gcc -nostartfiles -o nomain work.c
+ls
+./nomain 
+cd ..
+git add .
+git commit -m "c_with_nomian"
+git push -u origin main
+exit() d
+close
+sleep
+ls
