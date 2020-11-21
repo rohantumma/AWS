@@ -731,6 +731,10 @@ int demo()
 return 10;
 }
 # 3 "ccode.c" 2
+# 1 "china.h" 1
+int extra()
+{return 20;}
+# 4 "ccode.c" 2
 int main()
 {
 
