@@ -1,0 +1,3 @@
+gcc -Wall -save-temps ccode.c -o code  --- for compile with inter file
+_wall for enabling compiler warning
+size ccode.o --- for see size of file

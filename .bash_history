@@ -141,3 +141,8 @@ exit() d
 close
 sleep
 ls
+172.31.35.132
+sudo systemctl status ssh
+hostname -I
+172.31.19.223
+sudo su
