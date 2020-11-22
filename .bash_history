@@ -146,3 +146,19 @@ sudo systemctl status ssh
 hostname -I
 172.31.19.223
 sudo su
+cd c_compile/
+ls
+nano china.h
+nano ccode.c
+gcc -Wall -save-temps ccode.c -o ccode
+ls
+cd ..
+git add .
+git commit -m "exta_header"
+git push -u origin main
+cd c_compile/
+size ccode.o
+size ccode
+size code
+cd..
+cd ..
