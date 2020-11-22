@@ -1,0 +1,11 @@
+/usr/bin/time for calulate time of run file
+
+cargo new --bin file --- creating nre rust_cargo file
+cargo.toml           --- We can see that Cargo has created 
+			 a file Cargo.toml to hold metadata for
+			 the package.  
+cargo run 	     --- to run cargo
+cargo test           --- to test specific funtion i rust file
+
+rustc file.rs	     --- to compile rust file
+./file  	     --- to execute file 
