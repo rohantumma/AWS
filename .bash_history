@@ -162,3 +162,102 @@ size ccode
 size code
 cd..
 cd ..
+git add .
+git commit -m "Rust_Work"
+git push -u origin main
+cd r
+ls
+cd rust_work/
+l
+ls
+nano run.txt
+cd..
+cd .
+cd ..
+git add .
+git commit -m "rust_run"
+git push -u origin main
+sudo apt update
+sudo apt upgrade
+sudo apt install rustc
+rustc --version
+mkdir rust_work
+cd rust_work/
+mkdir testdir
+cd testdir/
+nano rusttestfile.rs
+rustc rusttestfile.rs 
+ls
+./rusttestfile
+rustup update
+sudo snap install rustup
+cargo new hello_world
+ls
+cd hello_world/
+ls
+cd src/
+ls
+cd ..
+ls
+nano Cargo.toml 
+cd src/
+nano main.rs 
+cd ..
+ls
+cargo build
+ls
+./target/debug//hello_world 
+cargo run
+cd target/
+ls
+cd debug/
+ls
+nano hello_world.d
+ls
+size hello_world
+cd build/
+ls
+cd ..
+ls
+cd debug/
+ls
+cd incremental/
+ls
+cd hello_world-1fj2a5ztuj9my/
+ls
+cd s-ftae63t726-xpccy2-27qti0gslui7j/
+ls
+c ..
+cd ..
+cd ,
+cd ..
+ls
+cd bu
+cd debug/
+ls
+cd ..
+ls
+cd .
+ls
+cd ..
+ls
+cd ..
+ls
+size rusttestfile.rs
+size rusttestfile
+nano rusttestfile
+/usr/bin/time rustc rusttestfile.rs
+/usr/bin/size rustc rusttestfile.rs
+/usr/bin/time ./rusttestfile 
+nano demo_time_c.c
+gcc -Wall demo_time_c.c -o demo
+nano demo_time_c.c
+gcc -Wall demo_time_c.c -o demo
+/usr/bin/time gcc -Wall demo_time_c.c -o demo
+/usr/bin/time rustc rusttestfile.rs
+ls
+cd hello_world/
+ls
+cargo run
+/usr/bin/time cargo run
+ls
